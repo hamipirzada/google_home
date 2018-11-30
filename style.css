@@ -1,0 +1,185 @@
+
+body {
+    
+    font-family: sans-serif
+    
+}
+
+img {
+    
+    width: 20px;
+    height: 30px;
+    position: relative;
+    top: 310px;
+    left: 360px;
+    padding: 7px;
+    border: none;
+    cursor: pointer;
+}
+
+ 
+
+ p a:hover{
+     
+    border: 1px solid silver;
+    color: black;
+    padding: 10px;
+    border-radius: 2px;
+    background-color: beige;
+}
+
+.right {
+    
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 25px;
+    
+}
+
+.right h1 {
+    
+    
+    
+}
+
+.right a {
+    
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    
+    
+}
+
+button {
+    
+    background-color: royalblue;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 8px 15px 8px 15px;
+    cursor: pointer;
+    
+}
+
+.right a:hover {
+    
+    text-decoration: underline;
+    color: #696969;
+    background-color: beige;
+        
+}
+
+.header {
+    position: absolute;
+    top: 20px;
+    left: 540px;
+    font-size: 120px;
+    cursor: default;
+    
+}
+
+.content {
+    
+    position: relative;
+    top: 290px;
+    left: 400px;
+    width: 555px;
+    height: 30px;
+    padding: 7px;
+    padding-left: 15px;
+    border-radius: 2px 1px;
+    
+    
+}
+
+.below {
+    
+    position: absolute;
+    bottom: 90px;
+    left: 450px;
+    font-size: 14px;
+    
+}
+
+.below a {
+    
+    text-decoration: none;
+    color: royalblue;
+    
+    
+}
+
+.below a:hover {
+    
+    text-decoration: underline;
+    border: none;
+    color: royalblue;
+    
+}
+
+
+
+
+.link1 {
+    
+    position: relative;
+    top: 330px;
+    left: 540px;
+    text-decoration: none;
+    color: grey;
+    background-color: beige;
+    border: 0.2px solid silver;
+    padding: 10px;
+    border-radius: 3px
+    
+    
+}
+
+.link2 {
+    
+    position: relative;
+    top: 295px;
+    left: 680px;
+    text-decoration: none;
+    color: grey;
+    background-color: beige;
+    border: 0.2x solid silver;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.footer {
+    
+    position: absolute;
+    bottom: 1px;
+    padding: 15px;
+}
+
+.footer a {
+    
+    text-decoration: none;
+    color: grey;
+    font-size: 13px;
+    margin-left: 20px;
+    
+    
+}
+
+.footer2 {
+    
+    position: absolute;
+    bottom: 1px;
+    right: 20px;
+    padding: 15px;
+    
+}
+
+.footer2 a{
+    
+    text-decoration: none;
+    color: grey;
+    font-size: 13px;
+    margin-left: 20px;
+    
+}
